@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagement.API\\SchoolManagement.API.csproj": {}
+    "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagementApplication\\SchoolManagement.API\\SchoolManagement.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagement.API\\SchoolManagement.API.csproj": {
+    "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagementApplication\\SchoolManagement.API\\SchoolManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagement.API\\SchoolManagement.API.csproj",
+        "projectUniqueName": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagementApplication\\SchoolManagement.API\\SchoolManagement.API.csproj",
         "projectName": "SchoolManagement.API",
-        "projectPath": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagement.API\\SchoolManagement.API.csproj",
+        "projectPath": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagementApplication\\SchoolManagement.API\\SchoolManagement.API.csproj",
         "packagesPath": "C:\\Users\\Md Azim Mina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagement.API\\obj\\",
+        "outputPath": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagementApplication\\SchoolManagement.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

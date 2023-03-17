@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mp+osV7oBpmOE6/ReFDvXMV65olAEAeKY5ElYWVQatwGLUHPmqnAIS/eLvg3qSTjU5lohlSVXYVptWep/PA1/Q==",
+  "dgSpecHash": "Tbe4CV3wfYmvfohPXPECHr4zATWWpzXKphDYpj15I8Wr/+3C6ZVNPULTwa9CTv1cI50irSpArSd9oTAfb6SUxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagement.API\\SchoolManagement.API.csproj",
+  "projectFilePath": "C:\\Users\\Md Azim Mina\\OneDrive\\Desktop\\OneIctLtd\\SchoolManagementApplication\\SchoolManagement.API\\SchoolManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Md Azim Mina\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Md Azim Mina\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
